@@ -6,3 +6,4 @@
 ### [https://github.com/pratham72/Project/blob/main/loadbalancing_in_azure/Video/Screen%20Recording.webm]
 
 * Then click on download link shown in picture below.
+![](Video/download.png)
