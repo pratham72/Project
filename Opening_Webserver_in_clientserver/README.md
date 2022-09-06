@@ -5,5 +5,5 @@
 * You can watch my video by clicking on below link :-
 ### [https://github.com/pratham72/Project/blob/main/Opening_Webserver_in_clientserver/Video/Prpatel43-project%201%20demonstration.webm]
 
-* Then click on download link shown in picture below.
+* Then click on download icon highlighted in picture below.
 ![](Video/download.png)
