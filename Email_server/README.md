@@ -9,5 +9,5 @@
 ![](Video/MX%20final%20Quary.jpg)
 * In order to prevent losing our website in the event that the server was destroyed or damaged, we put up an external storage device.
 ![](Video/final%20Mount.jpg)
-* On Amazon Linux, Postfix is already installed, however it only listens on localhost and refuses inbound connections to port 22, even though the firewall permits access to that port.
+* On Amazon Linux, Postfix is already installed, however it only listens on localhost and refuses inbound connections to port 25, even though the firewall permits access to that port.
 ![](Video/2.png)
